@@ -1,4 +1,4 @@
-# Práctica programada 3
+# Práctica Programada 3
   Este repositorio es para la creación de la práctica programada 3
 
 > Intrgrantes:
